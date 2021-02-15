@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://REST_COUNTRIES/./src/styles.css"],"names":[],"mappings":"AAAA,KACE,wBACF","file":"main.css","sourcesContent":["body {\r\n  background-color: deeppink;\r\n}\r\n"],"sourceRoot":""}

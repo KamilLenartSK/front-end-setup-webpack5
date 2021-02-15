@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://REST_COUNTRIES/./src/index.js"],"names":["console","log"],"mappings":"yGAGAA,QAAQC,IAAI,W","file":"build.f85a7604c1ba920a0314.js","sourcesContent":["import a from \"./a\";\r\nimport \"./styles.css\";\r\n\r\nconsole.log(\"works\");\r\n"],"sourceRoot":""}
