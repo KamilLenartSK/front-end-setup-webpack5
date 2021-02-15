@@ -1,13 +1,7 @@
-# REST Countries API with Pure JavaScript
+# Just another Webpack config for better front-end dev experience
 
-Stories:
-
-## As a user, I am able to :
-
--View ALL countries returned from the REST API on the homepage.
-
--Search for a specific country by providing a search query.
-
--Filter Displayed countries by Region.
-
--View detailed information about a specific country.
+-PURE JS transpiling with Babel, offerring latest features
+-PURE JS linting with eslint and AIRBNB style guide 
+-CSS with POSTCSS  (hot reloading enabled)
+-Webpack dev server
+-image support 
