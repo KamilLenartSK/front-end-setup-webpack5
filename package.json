@@ -1,7 +1,7 @@
 {
-  "name": "front-end-tooling"
+  "name": "front-end-tooling",
   "version": "1.0.0",
-  "description": "Using modern tools for front-end dev experience( webpack 5 ,linting  minification of CSS and JS etc)  "
+  "description": "Using modern tools for front-end dev experience( webpack 5 ,linting  minification of CSS and JS etc)",
   "main": "index.js",
   "scripts": {
     "build": "webpack --env NODE_ENV=prod --config ./pipeline/webpack.config.js",
